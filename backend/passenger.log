@@ -1,0 +1,42 @@
+App 30495 output: /home/gunnarma/nodevenv/dojo/10/lib/node_modules/whatwg-url/lib/encoding.js:2
+App 30495 output: const utf8Encoder = new TextEncoder();
+App 30495 output:                     ^
+App 30495 output: ReferenceError: TextEncoder is not defined
+App 30495 output:     at Object.<anonymous> (/home/gunnarma/nodevenv/dojo/10/lib/node_modules/whatwg-url/lib/encoding.js:2:21)
+App 30495 output:     at Module._compile (internal/modules/cjs/loader.js:778:30)
+App 30495 output:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+App 30495 output:     at Module.load (internal/modules/cjs/loader.js:653:32)
+App 30495 output:     at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+App 30495 output:     at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+App 30495 output:     at Module.require (internal/modules/cjs/loader.js:692:17)
+App 30495 output:     at Module.require (/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 30495 output:     at require (internal/modules/cjs/helpers.js:25:18)
+App 30495 output:     at Object.<anonymous> (/home/gunnarma/nodevenv/dojo/10/lib/node_modules/whatwg-url/lib/url-state-machine.js:5:34)
+App 31364 output: /home/gunnarma/nodevenv/dojo/10/lib/node_modules/whatwg-url/lib/encoding.js:2
+App 31364 output: const utf8Encoder = new TextEncoder();
+App 31364 output:                     ^
+App 31364 output: ReferenceError: TextEncoder is not defined
+App 31364 output:     at Object.<anonymous> (/home/gunnarma/nodevenv/dojo/10/lib/node_modules/whatwg-url/lib/encoding.js:2:21)
+App 31364 output:     at Module._compile (internal/modules/cjs/loader.js:778:30)
+App 31364 output:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+App 31364 output:     at Module.load (internal/modules/cjs/loader.js:653:32)
+App 31364 output:     at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+App 31364 output:     at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+App 31364 output:     at Module.require (internal/modules/cjs/loader.js:692:17)
+App 31364 output:     at Module.require (/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 31364 output:     at require (internal/modules/cjs/helpers.js:25:18)
+App 31364 output:     at Object.<anonymous> (/home/gunnarma/nodevenv/dojo/10/lib/node_modules/whatwg-url/lib/url-state-machine.js:5:34)
+App 31550 output: /home/gunnarma/nodevenv/dojo/10/lib/node_modules/whatwg-url/lib/encoding.js:2
+App 31550 output: const utf8Encoder = new TextEncoder();
+App 31550 output:                     ^
+App 31550 output: ReferenceError: TextEncoder is not defined
+App 31550 output:     at Object.<anonymous> (/home/gunnarma/nodevenv/dojo/10/lib/node_modules/whatwg-url/lib/encoding.js:2:21)
+App 31550 output:     at Module._compile (internal/modules/cjs/loader.js:778:30)
+App 31550 output:     at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+App 31550 output:     at Module.load (internal/modules/cjs/loader.js:653:32)
+App 31550 output:     at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+App 31550 output:     at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+App 31550 output:     at Module.require (internal/modules/cjs/loader.js:692:17)
+App 31550 output:     at Module.require (/opt/cpanel/ea-ruby27/root/usr/share/passenger/helper-scripts/node-loader.js:80:25)
+App 31550 output:     at require (internal/modules/cjs/helpers.js:25:18)
+App 31550 output:     at Object.<anonymous> (/home/gunnarma/nodevenv/dojo/10/lib/node_modules/whatwg-url/lib/url-state-machine.js:5:34)
